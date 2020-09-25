@@ -1,31 +1,15 @@
-### Hi there 👋
-
-<!--
-**thiagoddcqg/thiagoddcqg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>Olá! Eu sou thiagoddcqg.</h2>
+### Olá! Eu sou thiagoddcqg 👋
 
 <h3>👨🏻‍💻 Sobre mim</h3>
 
-- 🔍 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software e tendências de interfaces gráficas.
-- 🎓 &nbsp; Cientista da Computação pela Universidade Federal Rural do Semi-Árido de Mossoró, RN, BR.
-- 💼 &nbsp; Trabalhando como Freelancer de Desenvolvimento Full Stack.
-- 🌱 &nbsp; Aprenda mais sobre arquitetura em nuvem, design de sistemas e DevOps.
-- ✍️ &nbsp; Buscar o desenvolvimento de jogos como hobby.
-- 💬 &nbsp; Pergunte-me sobre desenvolvimento web, jogos indie, playlists do Spotify e bom conteúdo do youtube.
+- 🔍 &nbsp; Explorando novas tecnologias, soluções de software e tendências de design de interface.
+- 🎓 &nbsp; Cientista da computação pela Universidade Federal Rural do Semi-Árido de Mossoró, RN, BR.
+- 💼 &nbsp; Trabalhando como desenvolvedor de aplicações para internet.
+- 🌱 &nbsp; Aprendendo mais sobre full stack para programação web.
+- ✍️ &nbsp; Crio interfaces gráficas para websites como hobby.
+- 💬 &nbsp; Pergunte-me sobre desenvolvimento web e dicas de produtividade.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Pilha de Tecnologia</h3>
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)
@@ -62,5 +46,5 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/thiagoddcqg"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thiagoddcqg-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:thiagoddcqg@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:thiagoddcqg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
