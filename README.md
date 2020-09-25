@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Cientista da computação pela Universidade Federal Rural do Semi-Árido de Mossoró, RN, BR.
 - 💼 &nbsp; Trabalhando como desenvolvedor de aplicações para internet.
 - 🌱 &nbsp; Aprendendo mais sobre full stack para programação web.
-- ✍️ &nbsp; Crio interfaces gráficas para websites como hobby.
+- ✍️ &nbsp; Construo interfaces gráficas para websites como hobby.
 - 💬 &nbsp; Pergunte-me sobre desenvolvimento web e dicas de produtividade.
 
 <h3>🛠 Pilha de Tecnologia</h3>
