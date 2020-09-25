@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/thiagoddcqg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aretw0&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aretw0&theme=vue&layout=compact&exclude_lang=java" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagoddcqg0&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thiagoddcqg0&theme=react&layout=compact&exclude_lang=java"/>
   </a>
 </p>
 
@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/thiagoddcqg"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thiagoddcqg-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:thiagoddcqg@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E-mail-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:thiagoddcqg@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
