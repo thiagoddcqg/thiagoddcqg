@@ -47,13 +47,12 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime-333333?style=flat&logo=sublime-text)
 <br/>
 
 <p align="center">
   <a href="https://github.com/thiagoddcqg">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagoddcqg0&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thiagoddcqg0&theme=react&layout=compact&exclude_lang=java"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagoddcqg&theme=react&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thiagoddcqg&theme=react&layout=compact&exclude_lang=java"/>
   </a>
 </p>
 
