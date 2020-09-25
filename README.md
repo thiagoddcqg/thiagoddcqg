@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h3>🤝🏻 Conecte-se Comigo</h3>
+<h3>🤝 Conecte-se Comigo</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thiago%20Gama-blue?style=flat-square&logo=linkedin"></a>
