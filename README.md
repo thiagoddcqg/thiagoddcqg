@@ -47,6 +47,7 @@ Here are some ideas to get you started:
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code]
 <br/>
 
 <p align="center">
@@ -61,5 +62,5 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/thiagoddcqg"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thiagoddcqg-blue?style=flat-square&logo=twitter"></a>
-  <a href="mailto:thiagoddcqg@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:thiagoddcqg@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E-mail-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
