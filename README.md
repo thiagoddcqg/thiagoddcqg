@@ -44,7 +44,7 @@
 <h3>🤝 Conecte-se comigo</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thiago%20Gama-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://twitter.com/thiagoddcqg"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thiagoddcqg-blue?style=flat-square&logo=twitter"></a>
   <a href="mailto:thiagoddcqg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
