@@ -1,10 +1,10 @@
 ### Olá! Eu sou thiagoddcqg 👋
 
-<h3>👨🏻‍💻 Sobre mim</h3>
+<h3>👨🏻‍💻 Sobre Mim</h3>
 
 - 🔍 &nbsp; Explorando novas tecnologias, soluções de software e tendências de design de interface.
 - 🎓 &nbsp; Cientista da computação pela Universidade Federal Rural do Semi-Árido de Mossoró, RN, BR.
-- 💼 &nbsp; Trabalhando como desenvolvedor de aplicações para internet.
+- 💼 &nbsp; Trabalhando como desenvolvedor freelancer de aplicações para internet.
 - 🌱 &nbsp; Aprendendo mais sobre full stack para programação web.
 - ✍️ &nbsp; Construo interfaces gráficas para websites como hobby.
 - 💬 &nbsp; Pergunte-me sobre desenvolvimento web e dicas de produtividade.
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h3>🤝 Conecte-se comigo</h3>
+<h3>😊 Conecte-se Comigo</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thiago%20Gama-blue?style=flat-square&logo=linkedin"></a>
