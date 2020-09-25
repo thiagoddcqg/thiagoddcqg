@@ -31,7 +31,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Notepad++](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=notepad-plus-plus)
+  ![Notepad++](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=notepad%2B%2B)
 <br/>
 
 <p align="center">
