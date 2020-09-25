@@ -51,16 +51,16 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <a href="https://github.com/aretw0">
+  <a href="https://github.com/thiagoddcqg">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aretw0&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aretw0&theme=vue&layout=compact&exclude_lang=java" />
   </a>
 </p>
 
-<h3> 🤝🏻 Conecte-se comigo </h3>
+<h3>🤝 Conecte-se comigo</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-silva-1620/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://www.instagram.com/aretw0"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-aretw0-blue?style=flat-square&logo=instagram"></a>
+  <a href="https://www.linkedin.com/in/thiago-gama-7693531b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arthur%20Silva-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/thiagoddcqg"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-thiagoddcqg-blue?style=flat-square&logo=twitter"></a>
   <a href="mailto:thiagoddcqg@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E-mail-thiagoddcqg@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
