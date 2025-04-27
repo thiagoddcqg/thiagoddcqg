@@ -3,7 +3,6 @@
 <h3>👨🏻‍💻 Sobre Mim</h3>
 
 - 🔍 &nbsp; Explorando novas tecnologias, soluções de software e tendências de design de interface.
-- 🎓 &nbsp; Analista de sistemas pelo Centro Universitário Maurício de Nassau de Recife, PE, BR.
 - 💼 &nbsp; Trabalhando como desenvolvedor freelancer de aplicações para internet.
 - 🌱 &nbsp; Aprendendo mais sobre full stack para programação web.
 - ✍️ &nbsp; Construo interfaces gráficas para websites como hobby.
